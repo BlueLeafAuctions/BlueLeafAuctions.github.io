@@ -88,7 +88,7 @@
   </header>
 
   <section>
-    <h2>🎤 What Is a Live Estate Auction?</h2>
+    <h2> What Is a Live Estate Auction?</h2>
     <p>
       A <strong>live estate auction</strong> is a real-time, on-site selling event where household items, collectibles, vehicles, and more are sold to the highest bidder. Hosted by a professional auctioneer, it's a fast, competitive, and transparent process.
     </p>
@@ -98,7 +98,7 @@
   </section>
 
   <section class="benefits">
-    <h2>✅ Why Los Angeles Homeowners Choose Blue Leaf Auctions</h2>
+    <h2> Why Los Angeles Homeowners Choose Blue Leaf Auctions</h2>
     <ul>
       <li><strong>Stress-Free Transitions</strong> – We handle everything from start to finish, from coming out and taking pictures and buyers hauling items away.</li>
       <li><strong>Maximum Exposure</strong> – Our marketing reaches dealers, collectors, and local buyers.</li>
@@ -108,21 +108,21 @@
   </section>
 
   <section>
-    <h2>📍 Now Booking in Los Angeles & Surrounding Areas</h2>
+    <h2> Now Booking in Los Angeles & Surrounding Areas</h2>
     <p>
       We are now proudly serving <strong>Los Angeles, Pasadena, Long Beach, Glendale, Santa Monica</strong>, and all of Southern California. Let us bring the Blue Leaf experience to you.
     </p>
   </section>
 
   <section>
-    <h2>📞 Let’s Talk</h2>
+    <h2> Let’s Talk</h2>
     <p>Ready to sell? Want to attend an upcoming auction?</p>
     <p>Call us at <strong>(424) 355-5060</strong> or visit <a href="https://www.602blue.com" target="_blank">602blue.com</a> to schedule your free consultation.</p>
     <blockquote>“Blue Leaf made the process so simple and got us amazing results. We didn’t have to lift a finger!” – Happy Seller</blockquote>
   </section>
 
   <div class="cta">
-    <h3>🛎️ Experience the Energy of Live Auctions</h3>
+    <h3>🛎 Experience the Energy of Live Auctions</h3>
     <p>It’s not just a sale — it’s a show, a community event, and the smartest way to liquidate an estate.</p>
     <a href="https://www.602blue.com">Schedule a Free Consultation</a>
   </div>

@@ -124,14 +124,14 @@
   <section>
     <h2> Let’s Talk</h2>
     <p>Ready to sell? Want to attend an upcoming auction?</p>
-    <p>Call us at <strong>(XXX) XXX-XXXX</strong> or visit <a href="https://www.blueleafauctions.com" target="_blank">blueleafauctions.com</a> to schedule your free consultation.</p>
+    <p>Call us at <strong>(424) 355-5060</strong> or visit <a href="https://www.602blue.com" target="_blank">blueleafauctions.com</a> to schedule your free consultation.</p>
     <blockquote>“Blue Leaf made the process so simple and got us amazing results. We didn’t have to lift a finger!” – Happy Seller</blockquote>
   </section>
 
   <div class="cta">
     <h3>🛎 Experience the Energy of Live Auctions</h3>
     <p>It’s not just a sale — it’s a show, a community event, and the smartest way to liquidate an estate.</p>
-    <a href="https://www.blueleafauctions.com">Schedule a Free Consultation</a>
+    <a href="https://www.602blue.com">Schedule a Free Consultation</a>
   </div>
 
 </body>

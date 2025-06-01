@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Blue Leaf Auctions - Now in Los Angeles</title>
+  <title>Blue Leaf Auctions - in Los Angeles</title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -90,7 +90,7 @@
   <header>
     <!-- Logo added here -->
     <img src="blueleaf-logo.png" alt="Blue Leaf Auctions Logo" />
-    <h1>Blue Leaf Auctions – Now Serving Southern California!</h1>
+    <h1>Blue Leaf Auctions – Serving Southern California!</h1>
     <p>Live Estate Auctions Come to Los Angeles</p>
   </header>
 
@@ -105,7 +105,22 @@
   </section>
 
   <section class="benefits">
-    <h2> Why Los Angeles Homeowners Choose Blue Leaf Auctions</h2>
+    <section>
+  <h2>Estate Items That Bring the Most Value</h2>
+  <p>
+    At Blue Leaf Auctions, we specialize in maximizing returns on high-value estate items. Our team includes an experienced <strong>on-staff gemologist</strong> to evaluate and authenticate <strong>fine jewelry, diamonds, and luxury watches</strong> — ensuring you get top dollar.
+  </p>
+  <ul>
+    <li><strong>Estate Jewelry & High-Value Gems</strong> – Certified appraisals, buyer trust, and strong bidding interest</li>
+    <li><strong>Cars & Classic Vehicles</strong> – We market your vehicles to collectors and auto enthusiasts across SoCal</li>
+    <li><strong>Special Collections</strong> – Coins, art, firearms, rare memorabilia, sports cards, and more</li>
+  </ul>
+  <p>
+    These categories consistently generate major attention and competitive bidding, leading to exceptional results.
+  </p>
+</section>
+
+  <h2> Why Los Angeles Homeowners Choose Blue Leaf Auctions</h2>
     <ul>
       <li><strong>Stress-Free Transitions</strong> – We handle everything from start to finish, from coming out and taking pictures to buyers hauling items away.</li>
       <li><strong>Maximum Exposure</strong> – Our marketing reaches dealers, collectors, and local buyers.</li>
@@ -115,9 +130,9 @@
   </section>
 
   <section>
-    <h2> Now Booking in Los Angeles & Surrounding Areas</h2>
+    <h2> Booking in Los Angeles & Surrounding Areas</h2>
     <p>
-      We are now proudly serving <strong>Los Angeles, Pasadena, Long Beach, Glendale, Santa Monica</strong>, and all of Southern California. Let us bring the Blue Leaf experience to you.
+      We are proudly serving <strong>Los Angeles, Pasadena, Long Beach, Glendale, Santa Monica</strong>, and all of Southern California. Let us bring the Blue Leaf experience to you.
     </p>
   </section>
 

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -17,6 +16,11 @@
       color: white;
       padding: 2rem 1rem;
       text-align: center;
+    }
+    header img {
+      max-width: 200px;
+      height: auto;
+      margin-bottom: 1rem;
     }
     header h1 {
       margin: 0;
@@ -83,6 +87,8 @@
 <body>
 
   <header>
+    <!-- Logo added here -->
+    <img src="blueleaf-logo.png" alt="Blue Leaf Auctions Logo" />
     <h1>Blue Leaf Auctions – Now Serving Southern California!</h1>
     <p>Live Estate Auctions Come to Los Angeles</p>
   </header>
@@ -100,7 +106,7 @@
   <section class="benefits">
     <h2> Why Los Angeles Homeowners Choose Blue Leaf Auctions</h2>
     <ul>
-      <li><strong>Stress-Free Transitions</strong> – We handle everything from start to finish, from coming out and taking pictures and buyers hauling items away.</li>
+      <li><strong>Stress-Free Transitions</strong> – We handle everything from start to finish, from coming out and taking pictures to buyers hauling items away.</li>
       <li><strong>Maximum Exposure</strong> – Our marketing reaches dealers, collectors, and local buyers.</li>
       <li><strong>Fast, Transparent Results</strong> – Items sell quickly, with no guesswork or negotiations.</li>
       <li><strong>No Upfront Costs</strong> – We only get paid when your items sell.</li>
@@ -117,15 +123,16 @@
   <section>
     <h2> Let’s Talk</h2>
     <p>Ready to sell? Want to attend an upcoming auction?</p>
-    <p>Call us at <strong>(424) 355-5060</strong> or visit <a href="https://www.602blue.com" target="_blank">602blue.com</a> to schedule your free consultation.</p>
+    <p>Call us at <strong>(XXX) XXX-XXXX</strong> or visit <a href="https://www.blueleafauctions.com" target="_blank">blueleafauctions.com</a> to schedule your free consultation.</p>
     <blockquote>“Blue Leaf made the process so simple and got us amazing results. We didn’t have to lift a finger!” – Happy Seller</blockquote>
   </section>
 
   <div class="cta">
     <h3>🛎 Experience the Energy of Live Auctions</h3>
     <p>It’s not just a sale — it’s a show, a community event, and the smartest way to liquidate an estate.</p>
-    <a href="https://www.602blue.com">Schedule a Free Consultation</a>
+    <a href="https://www.blueleafauctions.com">Schedule a Free Consultation</a>
   </div>
 
 </body>
 </html>
+

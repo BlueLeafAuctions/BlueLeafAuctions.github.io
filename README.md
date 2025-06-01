@@ -124,7 +124,7 @@
   <section>
     <h2> Let’s Talk</h2>
     <p>Ready to sell? Want to attend an upcoming auction?</p>
-    <p>Call us at <strong>(424) 355-5060</strong> or visit <a href="https://www.602blue.com" target="_blank">blueleafauctions.com</a> to schedule your free consultation.</p>
+    <p>Call us at <strong>(424) 355-5060</strong> or visit <a href="https://www.602blue.com" target="_blank">602blue.com</a> to schedule your free consultation.</p>
     <blockquote>“Blue Leaf made the process so simple and got us amazing results. We didn’t have to lift a finger!” – Happy Seller</blockquote>
   </section>
 

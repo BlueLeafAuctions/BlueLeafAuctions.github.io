@@ -112,7 +112,7 @@
   </p>
   <ul>
     <li><strong>Estate Jewelry & High-Value Gems</strong> – Certified appraisals, buyer trust, and strong bidding interest</li>
-    <li><strong>Cars & Classic Vehicles</strong> – We market your vehicles to collectors and auto enthusiasts across SoCal</li>
+    <li><strong>Cars & Classic Vehicles</strong> – We market your vehicles to collectors and auto enthusiasts across the nation</li>
     <li><strong>Special Collections</strong> – Coins, art, firearms, rare memorabilia, sports cards, and more</li>
   </ul>
   <p>
